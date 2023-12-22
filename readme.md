@@ -1,5 +1,5 @@
 # Run-From-H1
-A tool that runs python code found in the <h1> tag of a HTML page on your computer
+A tool that runs python code found in the h1 tags of a HTML page on your computer
 
 ## How to use
 Run main.py, enter desired web URL, and let it run. Commands found in the URLs will be ran every 30 seconds until the program is closed.
