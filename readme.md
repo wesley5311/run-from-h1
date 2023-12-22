@@ -4,7 +4,7 @@ A tool that runs python code found in the <h1> tag of a HTML page on your comput
 ## How to use
 Run main.py, enter desired web URL, and let it run. Commands found in the URLs will be ran every 30 seconds until the program is closed.
 Close the program to stop running commands
-### Anything enclosed in the <h1></h1> tags in the URL will be ran as python code on your computer. **This encludes sys and os functions**
+### Anything enclosed in the h1 /h1 tags in the URL will be ran as python code on your computer. **This encludes sys and os functions**
 
 ## Possible Uses
 * Opening a set of apps while away from your computer (while simultaneously being able to control the target website)
